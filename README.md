@@ -16,7 +16,7 @@ Usage
 Show queue
 
     $ mco postfix mailq
-    Do you really want to perform network tests unfiltered? (y/n): y
+    Discovering hosts using the mc method for 2 second(s) .... 2
 
      * [ ============================================================> ] 11 / 11
 
@@ -29,7 +29,7 @@ Show queue
 Flush queue
 
     $ mco postfix flush
-    Do you really want to perform network tests unfiltered? (y/n): y
+    Discovering hosts using the mc method for 2 second(s) .... 2
 
      * [ ============================================================> ] 11 / 11
 
@@ -39,7 +39,7 @@ Flush queue
 Empty queue
 
     $ mco postfix flush
-    Do you really want to perform network tests unfiltered? (y/n): y
+    Discovering hosts using the mc method for 2 second(s) .... 2
 
      * [ ============================================================> ] 11 / 11
 
@@ -49,7 +49,7 @@ Empty queue
 Show last 10 lines from the mail log
 
     $ mco postfix log
-    Do you really want to perform network tests unfiltered? (y/n): y
+    Discovering hosts using the mc method for 2 second(s) .... 2
 
      * [ ============================================================> ] 11 / 11
 
