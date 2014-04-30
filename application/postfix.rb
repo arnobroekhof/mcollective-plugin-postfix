@@ -1,6 +1,6 @@
 class MCollective::Application::Postfix<MCollective::Application
   description "Linux Postfix broker"
-  usage "postfix [mailq|flush|empty]"
+  usage "postfix [mailq|flush|empty|log]"
 
   def post_option_parser(configuration)
     if ARGV.size == 1

@@ -38,7 +38,7 @@ Flush queue
 
 Empty queue
 
-    $ mco postfix flush
+    $ mco postfix empty
     Discovering hosts using the mc method for 2 second(s) .... 2
 
      * [ ============================================================> ] 11 / 11
